@@ -16,7 +16,7 @@ create table rsvp (
 
 insert into rsvp (name ,email ,phone ,confirmation_date,comments)
 values ('jessie','j@hotmail.com','555-56789', '2022-05-19','to bring balloons'),
-('guil','g@hotmail.com','555-56789', '2022-05-20','to bring hotpot'),
+('abigail','g@hotmail.com','555-56789', '2022-05-20','to bring hotpot'),
 ('levi','levi@hotmail.com','555-56789', '2022-05-21','will arrive at 4pm'),
 ('fred','fred@hotmail.com','555-12345', '2022-05-21','will arrive at 3pm'),
 ('fredrick','fredrick@hotmail.com','555-12345', '2022-05-21','will arrive at 3pm'),
